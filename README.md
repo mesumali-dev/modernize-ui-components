@@ -1,4 +1,4 @@
-# 🎨 Modernize UI Components | Modular Interface Library
+# Modernize UI Components | Modular Interface Library
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Components-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 Component Suite
+## Component Suite
 
 - **Telemetry Cards:** Highlighted KPI metrics with gradient badges and trend arrows.
 - **Dynamic Data Tables:** Formatted data grids with search, pagination, and status indicators.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/mesumali-dev/modernize-ui-components.git
@@ -27,5 +27,5 @@ streamlit run main.py
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
